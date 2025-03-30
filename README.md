@@ -96,6 +96,6 @@ npm install
 npm run dev
 4. The frontend will run on http://localhost:5173
 
-#### 2. Access the Application
+#### 3. Access the Application
 Open your browser and navigate to http://localhost:5173.
 Ensure the backend and LlamaStack are running for full functionality.
