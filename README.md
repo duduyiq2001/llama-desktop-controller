@@ -93,8 +93,9 @@ docker run \
 
 #### 2. Frontend Setup
 1. Navigate to the frontend directory
-  ```bash
+  ```sh
   cd /Users/sahil/Downloads/Llama-Stack Demo Apps/desktop_controller/llama-desktop-controller
+  ```
 2. Install Node.js dependencies
   ```sh
   npm install
