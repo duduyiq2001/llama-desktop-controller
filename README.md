@@ -82,18 +82,27 @@ docker run \
    ```bash
    cd /Users/sahil/Downloads/Llama-Stack Demo Apps/desktop_controller/llama-desktop-controller/backend
 2. Install Python dependencies:
+     ```sh
      pip install -r ../requirements.txt
+     ```
 3. Start the Flask server:
+   ```sh 
    python server.py
-4 . The backend will run on http://localhost:5066.
+   ```
+4. The backend will run on http://localhost:5066.
 
 #### 2. Frontend Setup
 1. Navigate to the frontend directory
-cd /Users/sahil/Downloads/Llama-Stack Demo Apps/desktop_controller/llama-desktop-controller
+  ```bash
+  cd /Users/sahil/Downloads/Llama-Stack Demo Apps/desktop_controller/llama-desktop-controller
 2. Install Node.js dependencies
-npm install
+  ```sh
+  npm install
+  ```
 3. Start the development server
-npm run dev
+  ```sh
+  npm run dev
+  ```
 4. The frontend will run on http://localhost:5173
 
 #### 3. Access the Application
