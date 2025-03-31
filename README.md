@@ -8,6 +8,7 @@ MacOS LLM Controller is a desktop application that allows users to execute macOS
 - Displays command execution history with real-time status updates.
 - Backend integration with LlamaStack for Python code generation.
 
+[Link to Demo](https://www.loom.com/share/6b3f665f14164daa8d3e45a8b6ac61f0?sid=b6078c87-e26a-4321-b645-b3ec8064a9c7)
 ---
 
 ## Technical Architecture
